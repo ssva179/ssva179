@@ -33,11 +33,15 @@ SQL, JPA
 
 ---
 
-## 🚀 Projects: 
+# 🚀 Projects: 
 AI Studio coming soon
 
 ## 💬 Let's Talk! ##
-📧 Reach me at ssva@bu.edu
+
+ Reach me at: 
+
+📬 ssva@bu.edu
+
 💼 [LinkedIn] (https://www.linkedin.com/in/stephanieargueta)
 
 ---
