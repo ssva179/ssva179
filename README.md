@@ -34,12 +34,13 @@ SQL, JPA
 ## 🚀 Projects: 
 AI Studio coming soon
 
-## 💬 Let's Talk!
+## 💬 Let's Talk! ##
 📧 Reach me at ssva@bu.edu
 💼 [LinkedIn] (https://www.linkedin.com/in/stephanieargueta)
+
 ---
 <!--
-**ssva179/ssva179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ssva179/ssva179 ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
