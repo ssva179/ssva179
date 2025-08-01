@@ -42,7 +42,7 @@ AI Studio coming soon
 
 📬 ssva@bu.edu
 
-💼 [LinkedIn] (https://www.linkedin.com/in/stephanieargueta)
+💼 [LinkedIn](https://www.linkedin.com/in/stephanieargueta)
 
 ---
 <!--
