@@ -1,4 +1,4 @@
-## Hello World! 👋
+# Hello World! 👋
 
 I'm Stephanie!
 
@@ -33,10 +33,10 @@ SQL, JPA
 
 ---
 
-# 🚀 Projects: 
+## 🚀 Projects: 
 AI Studio coming soon
 
-## 💬 Let's Talk! ##
+## 💬 Let's Talk!
 
  Reach me at: 
 
