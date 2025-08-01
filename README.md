@@ -2,7 +2,7 @@
 
 I'm Stephanie!
 
-🎓 Senior at ~~Boston University~~, studying Computer Science
+🎓 Senior at *Boston University*, studying Computer Science
 
 🔭 Interested in building AI systems that are not only intelligent, but also equitable, and designed with people in mind.
 
