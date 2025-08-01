@@ -23,7 +23,7 @@ Java, Python, C, C++, JavaScript, OCaml
 Pandas, NumPy, Scikit Learn, 
 
 **Web Development:**  
-REST APIs, JPA, HTML, JavaScript, DTOs, concurrency control
+REST APIs, JPA, HTML, JavaScript, DTOs
 
 **Tools:**
 Jupyter Notebooks, Google Colab, Git, GitHub
