@@ -34,7 +34,7 @@ SQL, JPA
 ---
 
 ## 🚀 Projects: 
-AI Studio coming soon
+[Machine Learning Foundations](https://github.com/ssva179/Machine-Learning-Foundations-Project)
 
 ## 💬 Let's Talk!
 
