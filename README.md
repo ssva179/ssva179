@@ -35,7 +35,7 @@ SQL, JPA
 
 ## 🚀 Projects: 
 [Machine Learning Foundations](https://github.com/ssva179/Machine-Learning-Foundations-Project)
-[TalkingCents] (https://github.com/ssva179/TalkingCents)
+[Talking Cents](https://github.com/ssva179/TalkingCents)
 
 ## 💬 Let's Talk!
 
