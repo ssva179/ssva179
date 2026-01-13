@@ -34,9 +34,11 @@ SQL, JPA
 ---
 
 ## 🚀 Projects: 
+[Fake News](https://github.com/Accenture-AI-Studio/fake-news)
 [Machine Learning Foundations](https://github.com/ssva179/Machine-Learning-Foundations-Project)
 
 [Talking Cents](https://github.com/ssva179/TalkingCents)
+
 
 ## 💬 Let's Talk!
 
