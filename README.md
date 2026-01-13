@@ -10,7 +10,11 @@ I'm Stephanie!
 
 ## 💻 About Me
 
-I’m passionate about using technology to address real-world challenges, especially those related to sustainability and inclusion. I enjoy working on projects that transform data into meaningful insights and impact. Currently, I’m a fellow in Cornell’s Break Through AI program, where I’m gaining hands-on experience in machine learning alongside mentorship from industry professionals. I’m always exploring how technology shapes the way we live and am actively seeking post-graduation opportunities that allow me to apply data science to solve real-world problems. I'm always happy to hear about interesting opportunities!!
+I build software systems aimed to solve real-world problems, with a focus on sustainability, inclusion, and practical impact. I enjoy working across the stack, designing and implementing software, analyzing data, and turning technical work into solutions that are reliable, scalable, and meaningful.
+
+I’m currently a fellow in Cornell’s Break Through AI program, where I’m gaining hands-on experience applying machine learning in real-world settings while collaborating with industry mentors. Through this work and my academic projects, I’ve strengthened my skills in software development, debugging, and system-level thinking, alongside data analysis and model evaluation.
+
+I’m actively seeking post-graduation opportunities where I can contribute as a software engineer with strong data and machine learning foundations. I’m always excited to connect and learn about interesting teams, projects, and opportunities!!
 
 ----
 
