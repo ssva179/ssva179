@@ -38,6 +38,7 @@ SQL, MongoDB, JPQL
 ---
 
 ## 🚀 Projects: 
+[Portfolio](https://github.com/ssva179/Personal-Portfolio/blob/main/README.md)
 [Fake News](https://github.com/Accenture-AI-Studio/fake-news)
 
 [Machine Learning Foundations](https://github.com/ssva179/Machine-Learning-Foundations-Project)
