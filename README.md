@@ -4,7 +4,7 @@ I'm Stephanie!
 
 🎓 Senior at *Boston University*, studying Computer Science
 
-🔭 Interested in building AI systems that are not only intelligent, but also equitable, and designed with people in mind.
+🔭 Interested in building systems that are not only intelligent, but also equitable, and designed with people in mind.
 
 ---
 
@@ -14,26 +14,26 @@ I build software systems aimed to solve real-world problems, with a focus on sus
 
 I’m currently a fellow in Cornell’s Break Through AI program, where I’m gaining hands-on experience applying machine learning in real-world settings while collaborating with industry mentors. Through this work and my academic projects, I’ve strengthened my skills in software development, debugging, and system-level thinking, alongside data analysis and model evaluation.
 
-I’m actively seeking post-graduation opportunities where I can contribute as a software engineer with strong data and machine learning foundations. I’m always excited to connect and learn about interesting teams, projects, and opportunities!!
+I’m actively seeking post-graduation opportunities as a full-stack software engineer, focused on building scalable, applications. I enjoy working across the stack, from designing backend systems to creating intuitive user experiences where I can integrate my background in data and machine learning. Always excited to connect and learn about great teams and opportunities!!
 
 ----
 
 ## 🔧 Technical Skills
 
 **Languages:**  
-Java, Python, C, C++, JavaScript, OCaml
+Java, Python, C, C++, JavaScript, OCaml, Go, TypeScript
 
 **Data Science:**  
 Pandas, NumPy, Scikit Learn, 
 
 **Web Development:**  
-REST APIs, JPA, HTML, JavaScript, DTOs
+React, TypeScript, HTML, CSS, REST APIs, JPA
 
 **Tools:**
-Jupyter Notebooks, Google Colab, Git, GitHub
+Jupyter Notebooks, Google Colab, Git, GitHub, Vite
 
 **Databases:**
-SQL, JPA
+SQL, MongoDB, JPQL
 
 ---
 
