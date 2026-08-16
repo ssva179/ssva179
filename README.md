@@ -32,7 +32,6 @@ Pandas, NumPy, Scikit Learn,
 React, TypeScript, HTML, CSS, REST APIs, JPA
 
 **Identity & Access Management:**
-
 SailPoint IdentityIQ, Active Directory, PowerShell, RBAC
 
 **Tools:**
