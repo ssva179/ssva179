@@ -2,7 +2,7 @@
 
 I'm Stephanie!
 
-🎓 Senior at *Boston University*, studying Computer Science
+🎓 Recent graduate from *Boston University*, studied Computer Science
 
 🔭 Interested in building systems that are not only intelligent, but also equitable, and designed with people in mind.
 
@@ -10,11 +10,13 @@ I'm Stephanie!
 
 ## 💻 About Me
 
-I build software systems aimed to solve real-world problems, with a focus on sustainability, inclusion, and practical impact. I enjoy working across the stack, designing and implementing software, analyzing data, and turning technical work into solutions that are reliable, scalable, and meaningful.
+I enjoy building software that solves real-world problems and working across different areas of computer science. My experience ranges from full-stack development and backend systems to machine learning, data analysis, and identity and access management.
 
-I’m currently a fellow in Cornell’s Break Through AI program, where I’m gaining hands-on experience applying machine learning in real-world settings while collaborating with industry mentors. Through this work and my academic projects, I’ve strengthened my skills in software development, debugging, and system-level thinking, alongside data analysis and model evaluation.
+I recently completed the Break Through Tech AI program, where I gained hands-on experience applying machine learning to real-world problems and collaborating on an industry-sponsored AI project. Through this experience and my computer science coursework, I strengthened my skills in software development, debugging, data analysis, and model evaluation.
 
-I’m actively seeking post-graduation opportunities as a full-stack software engineer, focused on building scalable, applications. I enjoy working across the stack, from designing backend systems to creating intuitive user experiences where I can integrate my background in data and machine learning. Always excited to connect and learn about great teams and opportunities!!
+Currently, I'm expanding my experience into identity and access management, working with technologies such as SailPoint IdentityIQ, Active Directory, and PowerShell while learning more about access governance, RBAC, provisioning, and secure identity management.
+
+Outside of that work, I continue building full-stack applications and recently developed and deployed a website for a small business. I'm especially interested in opportunities where I can combine my software engineering background with security, data, and thoughtful user experiences. Always excited to connect and learn about great teams and opportunities!!
 
 ----
 
@@ -29,6 +31,9 @@ Pandas, NumPy, Scikit Learn,
 **Web Development:**  
 React, TypeScript, HTML, CSS, REST APIs, JPA
 
+**Identity & Access Management:**
+SailPoint IdentityIQ, Active Directory, PowerShell, RBAC
+
 **Tools:**
 Jupyter Notebooks, Google Colab, Git, GitHub, Vite
 
@@ -38,13 +43,13 @@ SQL, MongoDB, JPQL
 ---
 
 ## 🚀 Projects: 
-[Portfolio](https://github.com/ssva179/Personal-Portfolio/blob/main/README.md)
+[Val's Creations and Party Rentals](https://vals-creations.com) - Full-stack website designed and developed for a small event business
 
-[Fake News](https://github.com/Accenture-AI-Studio/fake-news)
+[Fake News](https://github.com/Accenture-AI-Studio/fake-news) — Machine learning system for detecting deceptive media
 
-[Machine Learning Foundations](https://github.com/ssva179/Machine-Learning-Foundations-Project)
+[Machine Learning Foundations](https://github.com/ssva179/Machine-Learning-Foundations-Project) - Machine learning foundations project
 
-[Talking Cents](https://github.com/ssva179/TalkingCents)
+[Personal Portfolio](https://github.com/ssva179/Personal-Portfolio/blob/main/README.md)
 
 
 ## 💬 Let's Talk!
